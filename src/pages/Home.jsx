@@ -35,7 +35,7 @@ const Home = () => {
           transition={{ duration: 0.8, delay: 0.2, ease: "easeOut" }}
           className="mt-8 text-4xl md:text-6xl font-bold tracking-tighter bg-clip-text text-transparent bg-gradient-to-r from-slate-200 to-slate-400"
         >
-          Gather Your Party
+          Gather Your Party (test edit 2)
         </motion.h1>
 
         <motion.p
