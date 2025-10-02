@@ -19,7 +19,7 @@ const Header = () => {
       <div className="container mx-auto flex h-16 items-center justify-between px-4 md:px-6">
         <Link to="/" className="flex items-center gap-2 font-bold text-lg">
           <Swords className="h-6 w-6 text-primary" />
-          <span>D&D Scheduler</span>
+          <span>D&D Scheduler (Exploration testing)</span>
         </Link>
         <nav className="hidden md:flex items-center gap-6">
           {navLinks.map((link) => (
